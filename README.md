@@ -141,7 +141,6 @@ todo-summary-assistant/
 │
 ├── backend/          # Node.js (Express)
 │   ├── routes/
-│   ├── controllers/
 │   ├── services/
 │   └── .env.example
 │
